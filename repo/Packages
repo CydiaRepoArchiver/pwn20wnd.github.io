@@ -18,9 +18,9 @@ Name: Revoke Blocker
 Depends:
 Filename: ./debian/revokeblocker_1.0.deb
 Size: 730
-MD5sum: 89297c9294853eeb02910b3c9d68b3e1 
-SHA1: 3cd37604645301b71a70f38eb807cb9e205ae9a9
-SHA256: f6df7741984e785bb9de72ed3ba02e28d2bae57a596f1da21d3f52ed8be69daf
+MD5sum: df5dc8fc87bd0173e30c58fe7bf716cb 
+SHA1: 699ff80d9173854bb13c920b0b8e7ad177ef4852
+SHA256: a993e780ac80fdfb235fb12c70ae72430b89e2e4d3ed35e866c0a120926f0289
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Prevent certificates from getting revoked
