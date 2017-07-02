@@ -1,12 +1,12 @@
 Package: com.pwn20wnd.radareinstaller
 Name: Radare Installer
 Depends: ldid
-Filename: ./debian/radareinstaller_1.0.deb
-Size: 14183422
-MD5sum: 0c014841673adc21b764dfee25778171
-SHA1: 22d33550e21b437cd025360c7f8e52d50508735a
-SHA256: 748745313760613fd08636bb6489dd5e1455dac3ae36c447abad83dd88829d1a
-Version: 1.0
+Filename: ./debian/com.pwn20wnd.radareinstaller_1.1_iphoneos-arm.deb
+Size: 23485734
+MD5sum: f11dc8d043e72b6091f9c2537012adcf
+SHA1: 64316cf0d5b99779c5cd51ca2d596a2f18680ea2
+SHA256: 01e24617658929a1e0ce6c2f75f5962def258577e7648e1a31466f6ead90fa2d
+Version: 1.1
 Architecture: iphoneos-arm
 Description: ARM64 Radare Installer
 Maintainer: Pwn20wnd
@@ -16,12 +16,12 @@ Section: System
 Package: com.pwn20wnd.revokeblocker
 Name: Revoke Blocker
 Depends:
-Filename: ./debian/revokeblocker_1.0.deb
-Size: 730
-MD5sum: df5dc8fc87bd0173e30c58fe7bf716cb 
-SHA1: 699ff80d9173854bb13c920b0b8e7ad177ef4852
-SHA256: a993e780ac80fdfb235fb12c70ae72430b89e2e4d3ed35e866c0a120926f0289
-Version: 1.0
+Filename: ./debian/com.pwn20wnd.revokeblocker_1.1_iphoneos-arm.deb
+Size: 672
+MD5sum: 91d38412c586114d74488592487c1ba7 
+SHA1: 892b9dbc694192d8b96ea40ba840ac83b8a14a28
+SHA256: ae9bb01ea810aee1e662fc7a7dee2f91fc04fde3b7f809078963672eb46f5f69
+Version: 1.1
 Architecture: iphoneos-arm
 Description: Prevent certificates from getting revoked
 Maintainer: Pwn20wnd
