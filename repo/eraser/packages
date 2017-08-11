@@ -1,0 +1,13 @@
+Package: com.pwn20wnd.eraser
+Name: Eraser
+Filename: ./debian/com.pwn20wnd.eraser_1.0_iphoneos-arm.deb
+Size: 45556
+MD5sum: 5087337ed566f0879ff2a489fdaa8d05
+SHA1: b05740d94d4eda617d0e0d19d1189bb59dbe37b5
+SHA256: 0b9c4c026224c644cdc88fde2d6391a18d751fa427da556acbe4076c3cf3f65d
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A Cydia Eraser replacement.
+Maintainer: pwn20wnd
+Author: pwn20wnd & coolstarorg
+Section: System
