@@ -1,11 +1,11 @@
 Package: com.pwn20wnd.eraser
-Name: Eraser
-Filename: ./debian/com.pwn20wnd.eraser_1.0.2_iphoneos-arm.deb
-Size: 198132
-MD5sum: 03da01701f0ae0e2fd3caf54a70ba2aa
-SHA1: 645f372b97c9706037537b6f016f2e2a0dd5bfbb
-SHA256: 8a8c0dd06a524515db94036df838ade723520f93585c7e3fb1934d6e11bc8f12
-Version: 1.0.2
+Name: Remover
+Filename: ./debian/com.pwn20wnd.eraser_1.0.3_iphoneos-arm.deb
+Size: 198180
+MD5sum: cbfd945236a12a7d43f845cca7242002
+SHA1: c3f9acece629d365d4fc879cb8b14fa111efc0e6
+SHA256: ce58477caa5a74068bdf38573cca67332d832d3de222f3b5ee8d1d8be8032d8e
+Version: 1.0.3
 Architecture: iphoneos-arm
 Description: A Cydia Eraser replacement. The icon is made by Dennis Bednarz.
 Maintainer: pwn20wnd
